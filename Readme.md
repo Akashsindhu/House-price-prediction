@@ -1,4 +1,4 @@
-House price prediction application made from scratch. 
+### House price prediction application made from scratch. 
 
 End to End application that can take HTTP request from the webpage and predict the output.
 
